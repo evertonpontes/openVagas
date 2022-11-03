@@ -25,8 +25,6 @@ As histórias de usuários representa as funcionalidades que devem ser implement
 
 O Quadro _Scrum_ é um artefato fundamental na vida do programador, pois ele exibe as histórias de usuário que devem ser implementadas no sistema e o andamento do projeto, para que assim a equipe de desenvolvedores envolvida possa se programar melhor.
 
-[Link do Tello](https://trello.com/b/M9uyAIx6/divulga%C3%A7%C3%A3o-de-vagas-de-est%C3%A1gio-e-de-jovem-aprendiz)
-
 ## Documentação de casos de uso
 
 Os casos de uso é um tipo de documentação que exibe o fluxo normal e as exceções de uma funcionalidade do sistema, esse tipo de documento auxilia ao programador a definir o que deve ser feito quando alguma ação não for realizada corretamente.
